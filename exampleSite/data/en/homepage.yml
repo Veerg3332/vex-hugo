@@ -2,10 +2,10 @@
 banner:
   enable: true
   title: With FullFork, You Save Money
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
+  content: 'FullFork saves YOU money! Our app uses geolocation to show you the best
+    deals near you... Whether you save $10, $100, or $1000, we guarantee you will
+    be satisfied. We developed this app to help everyone, and that''s why it''s free
+    for you, your friends, and your family...forever. '
   image: images/watch.png
   button:
     enable: true
