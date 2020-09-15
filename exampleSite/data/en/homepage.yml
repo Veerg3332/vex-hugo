@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the poop
+  title: With FullFork, You Save Money
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
     tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
     adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
@@ -9,7 +9,7 @@ banner:
   image: images/watch.png
   button:
     enable: true
-    label: Browse All Products
+    label: Download It!
     link: products
 features:
   enable: true
