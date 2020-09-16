@@ -14,30 +14,30 @@ banner:
 features:
   enable: true
   title: The Full In FullFork
-  image: images/watch-2.png
+  image: "/images/fullforkphoto2superreal.png"
   left_side:
-  - title: Smooth Touch
+  - title: Incredible UI
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: Stunning Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: It's Free
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
   right_side:
-  - title: Smooth Touch
+  - title: High Speeds
     icon: tf-ion-ios-alarm-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Elegant Design
+  - title: Large Coverage
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
-  - title: Easy Pricing
+  - title: Something
     icon: tf-ion-ios-cart-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
