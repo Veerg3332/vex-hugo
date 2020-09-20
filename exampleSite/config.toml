@@ -55,7 +55,7 @@ currency = "$"
 description = "FullFork"
 logo = "/images/invisibleblue.png"
 logo_width = "100px"
-snipcart_api = ""
+snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "body {   background-color: white;   color: blue; }"
 [[params.plugins.css]]
