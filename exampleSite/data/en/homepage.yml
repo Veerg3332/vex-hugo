@@ -51,7 +51,7 @@ promo:
     Albonia and is also King Safas.  <br><br> Veer Gala is a self made billionare
     from Alabami with his dog (and partner in crime)...
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -83,10 +83,10 @@ subscription:
   placeholder: Your Email Address Here
 testimonial:
   enable: true
-  title: Watch Review
+  title: Top App Reviews
   testimonial_item:
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+  - name: 'Snuffy Gala '
+    designation: Senior VP of Milkbone Distribution
     image: images/avater.png
     content: A wonderful serenity has taken possession of my entire soul, like these
       sweet mornings of spring which I enjoy with my whole heart. I am alone, and
