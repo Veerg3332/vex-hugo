@@ -45,7 +45,7 @@ URL = "contact"
 name = "Contact"
 weight = 4
 [params]
-author = "Themefisher"
+author = "Veer Gala"
 contact_form_action = "#"
 currency = "$"
 description = "FullFork"
