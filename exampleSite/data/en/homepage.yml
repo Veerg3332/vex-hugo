@@ -42,11 +42,12 @@ promo:
   enable: true
   image: "/images/screen-shot-2021-02-16-at-2-55-04-pm.png"
   title: Designed by professionals, FullFork is made for you.
-  content: Veer Gala is a self made billionare from Alabami with his dog (and partner
-    in crime) which rules over Albonia and is also King Safas. Veer Gala is a self
-    made billionare from Alabami with his dog (and partner in crime) which rules over
-    Albonia and is also King Safas.  <br><br> Veer Gala is a self made billionare
-    from Alabami with his dog (and partner in crime)...
+  content: 'It''s simple. FullFork saves you money. Whatever walk of life you come
+    from, you deserve to save money so that you can spend on what makes you....you.
+    Our team works tirelessly to ensure the happiness of our users and customers alike.
+    We''ve crafted this app with precision and care in order to optimize its UI and
+    functionality. Developed by top programmers, excellent designers, and phenomenal
+    strategists, FullFork is made for you. '
 about_product:
   enable: false
   title: Why Choose Apple Watch
