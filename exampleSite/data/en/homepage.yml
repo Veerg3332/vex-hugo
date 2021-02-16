@@ -2,10 +2,7 @@
 banner:
   enable: true
   title: With FullFork, You Save Money
-  content: 'FullFork saves YOU money! Our app uses geolocation to show you the best
-    deals near you... Whether you save $10, $100, or $1000, we guarantee you will
-    be satisfied. We developed this app to help everyone, and that''s why it''s free
-    for you, your friends, and your family...forever. '
+  content: ''
   image: "/images/fullforkphoneimage1-0-00-00-01.jpg"
   button:
     enable: true
