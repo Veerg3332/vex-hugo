@@ -10,7 +10,14 @@ banner:
     link: products
 features:
   enable: true
-  title: The Full In FullFork
+  <h1 class="ml9">
+  <span class="text-wrapper">
+    <span class="letters"> 
+    title: The Full In FullFork </span>
+  </span>
+</h1>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
   image: "/images/fullforkphoto2superreal.png"
   left_side:
   - title: Incredible UI
